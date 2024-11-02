@@ -1,0 +1,14 @@
+F:\repos\EverybodyCodes2024\bin\Debug\net8.0\EverybodyCodes2024.exe
+F:\repos\EverybodyCodes2024\bin\Debug\net8.0\EverybodyCodes2024.deps.json
+F:\repos\EverybodyCodes2024\bin\Debug\net8.0\EverybodyCodes2024.runtimeconfig.json
+F:\repos\EverybodyCodes2024\bin\Debug\net8.0\EverybodyCodes2024.dll
+F:\repos\EverybodyCodes2024\bin\Debug\net8.0\EverybodyCodes2024.pdb
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.AssemblyInfoInputs.cache
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.AssemblyInfo.cs
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.csproj.CoreCompileInputs.cache
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.dll
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\refint\EverybodyCodes2024.dll
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.pdb
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\EverybodyCodes2024.genruntimeconfig.cache
+F:\repos\EverybodyCodes2024\obj\Debug\net8.0\ref\EverybodyCodes2024.dll
