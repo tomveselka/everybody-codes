@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\EverybodyCodes2024\\EverybodyCodes2024.csproj",
+      "projectUniqueName": "F:\\repos\\everybody-codes\\EverybodyCodes2024.csproj",
       "projectName": "EverybodyCodes2024",
-      "projectPath": "F:\\repos\\EverybodyCodes2024\\EverybodyCodes2024.csproj",
+      "projectPath": "F:\\repos\\everybody-codes\\EverybodyCodes2024.csproj",
       "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\EverybodyCodes2024\\obj\\",
+      "outputPath": "F:\\repos\\everybody-codes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
