@@ -79,14 +79,14 @@ public class Task3
         {
             for (int j = 0; j < colCount; j++)
             {
-                if (i == 0 || j == 0 || i >= rowCount - 2 || j >= colCount - 2)
-                {
-                    map[i, j] = 0;
-                }
-                else
-                {
-                    map[i, j] = input[i].Substring(j, 1).Equals("#") ? 1 : 0;
-                }               
+                map[i, j] = 0;
+            }
+        }
+        for (int i = 1; i < map.GetLength(0)-1; i++)
+        {
+            for (int j = 1; j < map.GetLength(1)-1; j++)
+            {
+                map[i, j] = input[i-1].Substring(j-1, 1).Equals("#") ? 1 : 0;
             }
         }
         PrintMap(map);
@@ -128,10 +128,11 @@ public class Task3
             }
 
             Console.WriteLine("In this loop was mined {0} blocks", minedBlocksInLoop);
-            PrintMap(map);
+            //PrintMap(map);
         } while (minedBlocksInLoop > 0);
 
         var minedBlockTotal = CountMinedBlocks(map);
+        PrintMap(map);
         Console.WriteLine("In total was mined {0} blocks", minedBlockTotal);
     }
 
