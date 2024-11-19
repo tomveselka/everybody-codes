@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EverybodyCodes2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf31d3e46f5651d48c5854c460e3eb22857f18c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c31192a686ab0ba305edb1109863f0c2f441e77")]
 [assembly: System.Reflection.AssemblyProductAttribute("EverybodyCodes2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EverybodyCodes2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

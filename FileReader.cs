@@ -10,6 +10,23 @@ public class FileReader
         return File.ReadAllLines(path + fileName);
     }
 
+    public string[,] ReadFileAsStringMap(string fileName)
+    {
+        var input = ReadFile(fileName);
+        var rowCount = input.Count();
+        var colCount = input[0].Split(" ").Length;
+        string[,] map = new string[rowCount, colCount];
+        for (int i = 0; i < rowCount; i++)
+        {
+            var rowArray = input[i].Split(" ");
+            for (int j = 0; j < colCount; j++)
+            {
+                map[i, j] = rowArray[j];
+            }
+        }
+        return map;
+    }
+
     public int[] ReadFileInt(string fileName)
     {
         var input = File.ReadAllLines(path + fileName);
